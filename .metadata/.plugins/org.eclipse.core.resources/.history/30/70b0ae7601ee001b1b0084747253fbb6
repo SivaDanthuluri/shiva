@@ -1,0 +1,10 @@
+package mypack;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// I am Comment
+		
+System.out.println("Hello World");
+	}
+}
