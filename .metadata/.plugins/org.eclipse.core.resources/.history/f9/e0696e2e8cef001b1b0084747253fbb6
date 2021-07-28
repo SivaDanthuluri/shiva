@@ -1,0 +1,19 @@
+package mypack;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		System.out.println("hello");
+		iAmNonStactic();
+		
+	}
+	public static void iAmNonStactic(){
+		System.out.println("Hello");
+	}
+	public void iams() {
+		System.out.println("hii");
+	}
+	{
+	System.out.println("first");
+	}
+}

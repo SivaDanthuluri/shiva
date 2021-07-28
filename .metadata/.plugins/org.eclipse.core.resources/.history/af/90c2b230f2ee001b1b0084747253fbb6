@@ -1,0 +1,17 @@
+package mypack;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		System.out.println("hello");
+	}
+	public void iAmStactic(){
+		System.out.println("Hello");
+	}
+	public void iams() {
+		System.out.println("hii");
+	}
+	{
+	System.out.println("first");
+	}
+}

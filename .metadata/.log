@@ -97,3 +97,111 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-26 16:24:14.010
 !MESSAGE executing callback sts4.classpath.eufmkUwb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:55.995
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.020
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.023
+!MESSAGE buffering callback sts4.classpath.eufmkUwb constructors_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.037
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.041
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.043
+!MESSAGE buffering callback sts4.classpath.eufmkUwb first_java_app_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.044
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.045
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.048
+!MESSAGE buffering callback sts4.classpath.eufmkUwb primitives_data_types_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.048
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.050
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.052
+!MESSAGE buffering callback sts4.classpath.eufmkUwb reading_inputs_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.053
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.056
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.058
+!MESSAGE buffering callback sts4.classpath.eufmkUwb regex_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.059
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.060
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.062
+!MESSAGE buffering callback sts4.classpath.eufmkUwb static_nonstatic_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.063
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.065
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.067
+!MESSAGE buffering callback sts4.classpath.eufmkUwb strings_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.068
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.070
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.073
+!MESSAGE buffering callback sts4.classpath.eufmkUwb wrappers_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.073
+!MESSAGE executing callback sts4.classpath.eufmkUwb 8 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:46:56.304
+!MESSAGE executing callback sts4.classpath.eufmkUwb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:48:06.446
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:48:06.448
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:48:06.450
+!MESSAGE buffering callback sts4.classpath.eufmkUwb Day1_Practice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:48:06.451
+!MESSAGE executing callback sts4.classpath.eufmkUwb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:48:06.456
+!MESSAGE executing callback sts4.classpath.eufmkUwb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:52:44.958
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:52:44.966
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:52:44.975
+!MESSAGE buffering callback sts4.classpath.eufmkUwb Challenges false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:52:44.977
+!MESSAGE executing callback sts4.classpath.eufmkUwb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 15:52:44.996
+!MESSAGE executing callback sts4.classpath.eufmkUwb SUCCESS [done]
