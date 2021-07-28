@@ -5,6 +5,7 @@ import java.lang.*;
 public class Triangle {
 
 	public static void main(String[] args) {
+		System.out.println("pythogras");
 		System.out.println(Triangle(3,4));
 
 	}
