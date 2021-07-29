@@ -1,9 +1,10 @@
 package mypackage;
 
 public class DataTypes {
-
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Functionss c=new Functionss(10,20);
+		System.out.println(c.add());
 
 	}
 
