@@ -2196,3 +2196,83 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-28 22:03:54.448
 !MESSAGE executing callback sts4.classpath.rEFOsILm SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 10:17:14.961
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 10:17:14.964
+!MESSAGE buffering callback sts4.classpath.rEFOsILm Day1_Practice true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 10:17:14.968
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 10:17:15.018
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 10:17:15.023
+!MESSAGE buffering callback sts4.classpath.rEFOsILm Week1_Practice false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 10:17:15.025
+!MESSAGE executing callback sts4.classpath.rEFOsILm 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 10:17:17.141
+!MESSAGE executing callback sts4.classpath.rEFOsILm FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-07-29 10:17:17.143
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 15:17:24.821
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 15:17:24.896
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 15:17:24.900
+!MESSAGE buffering callback sts4.classpath.rEFOsILm arrays_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 15:17:24.901
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 15:17:24.903
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 15:17:24.906
+!MESSAGE buffering callback sts4.classpath.rEFOsILm buffer_builder_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 15:17:24.907
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 15:17:24.908
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 15:17:24.911
+!MESSAGE buffering callback sts4.classpath.rEFOsILm encapsulation_demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 15:17:24.911
+!MESSAGE executing callback sts4.classpath.rEFOsILm 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 15:17:25.646
+!MESSAGE executing callback sts4.classpath.rEFOsILm SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 16:05:06.970
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 16:05:07.009
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 16:05:07.012
+!MESSAGE buffering callback sts4.classpath.rEFOsILm tasks false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 16:05:07.013
+!MESSAGE executing callback sts4.classpath.rEFOsILm 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-29 16:05:07.151
+!MESSAGE executing callback sts4.classpath.rEFOsILm SUCCESS [done]
