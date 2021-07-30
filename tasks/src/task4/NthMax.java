@@ -6,24 +6,27 @@ public class NthMax {
 
 	public static void main(String[] args) {
 		
+		int a[]= {13,45,45,56,78,78,23,14,56};
 		
-		int a[]= {13,45,53,56,78,78,23,14,56};
-		Arrays.sort(a);
-		
-		
-		
-		
-		
-		
-		/*int a[]= {10,25,45,2,6,9,34};
-		int max=0;
-		for(int i=0;i<a.length;i++)
+	int b[]= new int[a.length];
+	Arrays.sort(a);
+	System.out.println(Arrays.toString(a));
+	int j=0;
+	for (int i = 0; i < a.length-1; i++) {
+		if(a[i]!=a[i+1])
 		{
-			
-		if(a[i]>=max)
-		 max =a[i];	
-		
+			b[j++]=a[i];
+		}
 	}
-System.out.println(max);*/
-}
-}
+		b[j++]=a[a.length-1];
+		for (int  i = 0; i < j; i++) {
+			System.out.print(b[i]+" ");
+			
+			
+		}
+		int n=2;
+		System.out.println();
+		System.out.println(b[n]);
+	
+	}
+	}
