@@ -29,6 +29,7 @@ int length,breath,side,heigth;
 	class Trapezium extends InheritenceArea{}
 	
 	class Area{
+		
 	public static void main(String[] args)
 	{
 		Rectangle object1= new Rectangle();

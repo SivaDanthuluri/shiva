@@ -1,7 +1,5 @@
 package task10;
 
-
-
 public class Prime {
 	
 	static boolean isprime(int x)
