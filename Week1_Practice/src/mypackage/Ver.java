@@ -1,4 +1,4 @@
-package idVerification;
+package mypackage;
  
  
 public class Ver {

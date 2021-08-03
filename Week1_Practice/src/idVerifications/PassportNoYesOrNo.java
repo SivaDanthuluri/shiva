@@ -1,4 +1,4 @@
-package idVerification;
+package idVerifications;
 
 public class PassportNoYesOrNo {
 
