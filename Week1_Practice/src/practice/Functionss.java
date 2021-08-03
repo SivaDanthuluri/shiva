@@ -1,4 +1,4 @@
-package mypackage;
+package practice;
 
 public class Functionss {
 	private int a;

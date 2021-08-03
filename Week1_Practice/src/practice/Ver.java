@@ -1,4 +1,4 @@
-package mypackage;
+package practice;
  
  
 public class Ver {
