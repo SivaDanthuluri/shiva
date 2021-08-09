@@ -1,9 +1,0 @@
-package mypack;
-
-public class classs2 {
-
-
-int a=5;
-int b=6;
-
-}
