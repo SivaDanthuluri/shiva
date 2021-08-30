@@ -1,0 +1,1 @@
+SELECT * FROM cofeeshopdb.favorite_movies;

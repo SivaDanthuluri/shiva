@@ -1,0 +1,33 @@
+[main] 2021-08-16 14:47:57 INFO  com.app.Main  - Welcome to Vinay's Player App V1.0
+[main] 2021-08-16 14:47:57 INFO  com.app.Main  - ==========================================
+[main] 2021-08-16 14:47:57 INFO  com.app.Main  - 
+What you wish to do today?
+[main] 2021-08-16 14:47:57 INFO  com.app.Main  - 1)Create A Player
+[main] 2021-08-16 14:47:57 INFO  com.app.Main  - 2)Update A Player
+[main] 2021-08-16 14:47:57 INFO  com.app.Main  - 3)Delete A Player
+[main] 2021-08-16 14:47:57 INFO  com.app.Main  - 4)List All Players
+[main] 2021-08-16 14:47:57 INFO  com.app.Main  - 5)Search Player with various filters
+[main] 2021-08-16 14:47:57 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-16 14:47:57 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-16 14:48:06 INFO  com.app.Main  - Welcome to Vinay's Player App V1.0
+[main] 2021-08-16 14:48:06 INFO  com.app.Main  - ==========================================
+[main] 2021-08-16 14:48:06 INFO  com.app.Main  - 
+What you wish to do today?
+[main] 2021-08-16 14:48:06 INFO  com.app.Main  - 1)Create A Player
+[main] 2021-08-16 14:48:06 INFO  com.app.Main  - 2)Update A Player
+[main] 2021-08-16 14:48:06 INFO  com.app.Main  - 3)Delete A Player
+[main] 2021-08-16 14:48:06 INFO  com.app.Main  - 4)List All Players
+[main] 2021-08-16 14:48:06 INFO  com.app.Main  - 5)Search Player with various filters
+[main] 2021-08-16 14:48:06 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-16 14:48:06 INFO  com.app.Main  - Please enter your choice(1-6)
+[main] 2021-08-17 08:41:26 INFO  com.app.Main  - Welcome to Shiva's Player App
+[main] 2021-08-17 08:41:26 INFO  com.app.Main  - ==========================================
+[main] 2021-08-17 08:41:26 INFO  com.app.Main  - 
+What you wish to do today?
+[main] 2021-08-17 08:41:26 INFO  com.app.Main  - 1)Create A Player
+[main] 2021-08-17 08:41:26 INFO  com.app.Main  - 2)Update A Player
+[main] 2021-08-17 08:41:26 INFO  com.app.Main  - 3)Delete A Player
+[main] 2021-08-17 08:41:26 INFO  com.app.Main  - 4)List All Players
+[main] 2021-08-17 08:41:26 INFO  com.app.Main  - 5)Search Player with various filters
+[main] 2021-08-17 08:41:26 INFO  com.app.Main  - 6)EXIT
+[main] 2021-08-17 08:41:26 INFO  com.app.Main  - Please enter your choice(1-6)

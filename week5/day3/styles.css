@@ -1,0 +1,21 @@
+
+.card {
+    width: 15rem;
+    text-align: left;
+}
+
+.column {
+    float: left;
+    width: 33%;
+    padding: 0 10px;
+}
+
+.row {
+    margin: 0 -10px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}

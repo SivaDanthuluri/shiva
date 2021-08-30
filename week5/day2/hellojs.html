@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello World - JavaScript</title>
+    </head>
+    <body>
+        <h1>Hello World</h1>
+        <script src="Scripts/script.js"></script>
+        <script>
+            console.log("Hello World");
+            var age = 23;
+            console.log(age);
+            var area = areaOfRectangle(5, 3);
+            console.log("Area: " + area);  
+            for (var i = 0; i < 5; i++) {
+                console.log(i);  
+            }
+            var scores = [34, 45, 49, 54];
+            scores.push(60);
+            scores.pop(60);
+            scores[3] = 30;
+            console.log(scores);
+            console.log(scores[1]); 
+            
+            class Gender {
+                constructor(code, name) {
+                    this.code = code;
+                    this.name = name;
+                }
+
+                display() {
+                    console.log(this.code + " : " + this.name);
+                }
+            }
+            var gender = new Gender('M', 'Male');
+            gender.display();
+        </script>
+    </body>
+</html>
